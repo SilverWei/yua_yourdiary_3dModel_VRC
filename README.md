@@ -27,7 +27,7 @@
 再配布: 不可(改変モデルを配布されたい場合はご連絡ください)
 
 ## 著作権
-本3Dモデルは「cuffs 二次創作活動について」関するガイドライン(http://www.cuffs.co.jp/main/guideline/)に沿って制作しています。
+本3Dモデルは「cuffs 二次創作活動について」関するガイドライン (http://www.cuffs.co.jp/main/guideline/) に沿って制作しています。
 
 © CUFFS/Sphere/CUBE/MintCUBE/Sonora
 
